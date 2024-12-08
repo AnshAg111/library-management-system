@@ -1,0 +1,6 @@
+flask 
+pymongo 
+flask-marshmallow 
+marshmallow
+python-dotenv
+flask-jwt-extended
